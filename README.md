@@ -1,2 +1,2 @@
 # Python_Tutorials
-Tutorials I've created while learning Python 3. Mostly Jupyter Notebooks
+Tutorials I've created while learning Python 3.
